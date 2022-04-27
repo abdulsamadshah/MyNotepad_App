@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/drawable-v24/ic_baseline_done_all_24.xml" value="0.1665" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/drawable/layoutshape.xml" value="0.1665" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/drawable/searchbox.xml" value="0.1665" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/activity_note_pad.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/activity_note_write.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/activity_signupoptions.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/dialog_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/fragment_calender.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/fragment_more.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/fragment_search.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/notepad_samle_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/layout/sample_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/menu/hview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/menu/language.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/menu/mainmenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/menu/mycalendermenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/menu/mymenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/menu/notewrite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Android Studio All App/MyProject/MyNotepadApp/app/src/main/res/menu/searchmenu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

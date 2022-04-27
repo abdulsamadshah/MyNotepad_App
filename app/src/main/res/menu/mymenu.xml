@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/notes"
+        android:title="@string/Notes" />
+
+
+    <item
+        android:id="@+id/Calender"
+        android:icon="@drawable/calendar"
+        android:title="@string/calender" />
+
+    <item
+        android:id="@+id/as"
+        android:title="" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/comingsoon"
+        android:title="@string/upcoming" />
+
+    <item
+        android:id="@+id/More"
+        android:icon="@drawable/ic_baseline_more_24"
+        android:title="@string/More" />
+
+
+</menu>

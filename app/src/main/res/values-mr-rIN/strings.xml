@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyNotepad App</string>
+    <string name="color">रंग</string>
+    <string name="calender_Fragment">कॅलेंडर</string>
+    <string name="Share">शेअर करा</string>
+    <string name="View">पहा</string>
+    <string name="hinttitle">शीर्षक प्रविष्ट करा...</string>
+    <string name="hintdesc">मजकूर प्रविष्ट करा...</string>
+    <string name="views">पहा</string>
+    <string name="list">यादी</string>
+    <string name="grid">ग्रिड</string>
+    <string name="lgrid">मोठा ग्रिड</string>
+    <string name="calender">कॅलेंडर</string>
+    <string name="titless">शीर्षके</string>
+    <string name="description">वर्णन</string>
+    <string name="time">वेळ</string>
+    <string name="Language">इंग्रजी</string>
+    <string name="Notes">नोट्स</string>
+    <string name="Calender">कॅलेंडर</string>
+    <string name="Search">शोधा</string>
+    <string name="More">अधिक</string>
+    <string name="searcm">शोध मेनू</string>
+    <string name="save">जतन करा</string>
+    <string name="notesigned">जतन करा</string>
+    <string name="upcoming">येत आहे</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">माय नोटपैड ऐप</string>
+    <string name="calender_Fragment">केलिनडार</string>
+    <string name="color">रंग</string>
+    <string name="Share">साझा करना</string>
+    <string name="View">देखना</string>
+    <string name="hinttitle">शीर्षक दर्ज करें</string>
+    <string name="hintdesc">पाठ दर्ज करें</string>
+    <string name="views">देखना</string>
+    <string name="list">सूची</string>
+    <string name="grid">जाल</string>
+    <string name="lgrid">बड़ा ग्रिड</string>
+    <string name="calender">पंचांग</string>
+    <string name="titless">टाइटल</string>
+    <string name="description">विवरण</string>
+    <string name="time">समय</string>
+    <string name="Language">भाषा</string>
+    <string name="Notes">टिप्पणियाँ</string>
+    <string name="Calender">केलिनडार</string>
+    <string name="Search">खोज</string>
+    <string name="More">अधिक</string>
+    <string name="searcm">खोज मेनू</string>
+    <string name="save">सहेजें</string>
+    <string name="notesigned">प्रवेश नहीं किया</string>
+    <string name="upcoming">आ रहा है</string>
+
+
+
+
+</resources>
